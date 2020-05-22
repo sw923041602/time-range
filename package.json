@@ -41,5 +41,7 @@
     "> 1%",
     "last 2 versions",
     "not dead"
-  ]
+  ],
+  "main": "./src/index.js",
+  "files": ["dist/*","src/*","*.json","*.js"]
 }
